@@ -1,4 +1,15 @@
+# Modifications
+
+Some customization I have made to this theme, to add even more aesthetics.
+
+- Change Latin font into `Charter`
+- Change Asian font into `Songti SC` (make sure you have installed the font if you are using Windows)
+- Optimized math blocks in PDF outputs
+
+---
+
 # Vintage Theme for Typora
+
 `Vintage` is a typora theme and featured with following aspects:
 
 - A simple and powerful three-line `table` and a beautiful, easy-to-read `task list`.
@@ -7,17 +18,3 @@
 - Dark mode.
 
 > This theme had been tested under `Windows` System.
-
-![](media/lorem_ipsum_1.png)
-
-![](media/lorem_ipsum_2.png)
-
-![](media/lorem_ipsum_3.png)
-
-![](media/abstract_algebra.png)
-
-# Changelog
-
-- 2022/04/30
-
-  Add a dark theme implementation for `Vintage` named `Vintage Night`, feel free to explore.
